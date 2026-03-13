@@ -15,7 +15,7 @@ I enjoy building user-centered web applications combining UX design and modern w
 
 ## Projects
 - Chat Application (Angular + Ionic)
-- Data Visualization (D3.js)
+- Employee management tool
 
 ## Portfolio
 Coming soon
